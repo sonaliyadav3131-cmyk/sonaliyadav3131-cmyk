@@ -54,7 +54,7 @@ I love exploring how technology works and transforming ideas into practical solu
 🧠 Core Expertise
 Domain	Technologies & Skills
 🤖 AI & ML	Artificial Intelligence, Machine Learning
-💻 Programming	Python, C++, Java
+💻 Programming	Python, C++, Java,sql.
 🧩 DSA	Data Structures, Algorithms, Problem Solving
 🌐 Frontend	HTML, CSS, JavaScript
 ⚙️ Backend	Backend Development
