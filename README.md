@@ -70,19 +70,7 @@ Domain	Technologies & Skills
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonaliyadav3131-cmyk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-🏆 LeetCode Journey
 
-<p align="center">
-  <a href="https://leetcode.com/u/Sonali_yadav_3131/">
-    <img src="https://leetcard.jacoblin.cool/Sonali_yadav_3131?theme=dark&font=Fira%20Code&ext=heatmap" alt="Sonali's LeetCode Stats"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Sonali_yadav_3131/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
 🚀 What I'm Working Towards
 🤖 Exploring advanced AI and Machine Learning concepts.
 🧠 Strengthening Data Structures & Algorithms.
