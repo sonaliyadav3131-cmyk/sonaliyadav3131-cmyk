@@ -59,6 +59,43 @@ Domain	Technologies & Skills
 🌐 Frontend	HTML, CSS, JavaScript
 ⚙️ Backend	Backend Development
 🔧 Tools	Git, GitHub, VS Code
+🏆 Certifications & Achievements
+
+🗄️ SQL Certifications
+
+Successfully completed SQL certifications across three difficulty levels.
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-Basic-00CFFF?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Intermediate-7B68EE?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Advanced-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+
+
+🎯 My Current Learning Focus
+
+I'm continuously improving my technical skills and focusing on becoming a strong AI Engineer and Software Developer.
+
+🤖 Artificial Intelligence: Exploring advanced AI concepts and intelligent applications.
+
+🧠 Machine Learning: Model development, data preprocessing, classification and prediction
+.
+💻 Data Structures & Algorithms: Strengthening problem-solving skills through LeetCode.
+
+🗄️ SQL & DBMS: Improving database design, queries, joins and optimization.
+
+🌐 Full-Stack Development: Learning frontend, backend and database integration.
+
+🐍 Python Development: Writing efficient and scalable code.
+
+🚀 Real-World Projects: Building practical AI-powered applications.
+
+🌍 Open Source: Exploring GitHub contributions and collaborative development.
+
+
+
+
 📊 GitHub Analytics
 
 <p align="center">
